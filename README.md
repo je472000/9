@@ -1,3 +1,33 @@
-# 9
-got to this after i couldn't get to it
-this is a basic server side recognition and free flow through node.js
+# table
+        
+[title](title)[ description]( description)
+# instalation
+        
+npm
+# name
+        
+jim
+# description
+        
+for
+# usage
+        
+jim
+# license
+        
+
+# Contributing
+        
+jim ellis
+# tests
+        
+npm
+# questions
+        
+github.com
+# email
+        
+je472000@gmail.com
+# alternateContact
+        
+phone
